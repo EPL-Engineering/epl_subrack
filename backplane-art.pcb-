@@ -6,7 +6,7 @@ FileVersion[20070407]
 PCB["" 1900000 500000]
 
 Grid[1000.0 0 0 1]
-Cursor[891000 287000 0.000000]
+Cursor[0 422000 0.000000]
 PolyArea[200000000.000000]
 Thermal[0.500000]
 DRC[1000 1000 1000 1000 1500 1000]
@@ -2418,15 +2418,15 @@ Layer(8 "spare")
 )
 Layer(9 "silk")
 (
-	Text[154000 78000 0 100 "CHASSIS" "clearline,onsolder"]
-	Text[76000 103000 0 100 "+15V" "clearline,onsolder"]
-	Text[76000 111000 0 100 "-15V" "clearline,onsolder"]
-	Text[76000 117000 0 100 "+17V" "clearline,onsolder"]
-	Text[74000 122000 0 100 "-17V" "clearline,onsolder"]
-	Text[75000 129000 0 100 "COMMON" "clearline,onsolder"]
-	Text[75000 134000 0 100 "GNDD" "clearline,onsolder"]
-	Text[73000 138000 0 100 "+12VD" "clearline,onsolder"]
-	Text[75000 145000 0 100 "+5VD" "clearline,onsolder"]
+	Text[172000 197000 2 100 "+12VD" "clearline,onsolder"]
+	Text[172000 182000 2 100 "GNDD" "clearline,onsolder"]
+	Text[171000 165000 2 100 "+5VD" "clearline,onsolder"]
+	Text[172000 150000 2 100 "+17V" "clearline,onsolder"]
+	Text[173000 135000 2 100 "+15V" "clearline,onsolder"]
+	Text[171000 119000 2 100 "-15V" "clearline,onsolder"]
+	Text[172000 104000 2 100 "-17V" "clearline,onsolder"]
+	Text[176000 88000 2 100 "COMMON" "clearline,onsolder"]
+	Text[176000 73000 2 100 "CHASSIS" "clearline,onsolder"]
 )
 Layer(10 "silk")
 (
