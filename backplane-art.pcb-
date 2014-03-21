@@ -6,7 +6,7 @@ FileVersion[20070407]
 PCB["" 1900000 500000]
 
 Grid[1000.0 0 0 1]
-Cursor[0 422000 0.000000]
+Cursor[1130000 378000 0.000000]
 PolyArea[200000000.000000]
 Thermal[0.500000]
 DRC[1000 1000 1000 1000 1500 1000]
@@ -2430,6 +2430,29 @@ Layer(9 "silk")
 )
 Layer(10 "silk")
 (
+	Text[1049000 221000 0 100 "D0" "clearline"]
+	Text[1052000 241000 0 100 "D2" "clearline"]
+	Text[1051000 254000 0 100 "D4" "clearline"]
+	Text[1054000 269000 0 100 "D6" "clearline"]
+	Text[1131000 221000 0 100 "D1" "clearline"]
+	Text[1134000 236000 0 100 "D2" "clearline"]
+	Text[1132000 249000 0 100 "D3" "clearline"]
+	Text[1133000 269000 0 100 "D7" "clearline"]
+	Text[1049000 284000 0 100 "FAULT" "clearline"]
+	Text[1127000 285000 0 100 "WAIT" "clearline"]
+	Text[1048000 298000 0 100 "TX" "clearline"]
+	Text[1126000 300000 0 100 "RX" "clearline"]
+	Text[1049000 314000 0 100 "CLOCK" "clearline"]
+	Text[1129000 315000 0 100 "R/W" "clearline"]
+	Text[1051000 331000 0 100 "A0" "clearline"]
+	Text[1126000 333000 0 100 "A1" "clearline"]
+	Text[1048000 345000 0 100 "A2" "clearline"]
+	Text[1124000 348000 0 100 "A3" "clearline"]
+	Text[1053000 364000 0 100 "A4" "clearline"]
+	Text[1126000 364000 0 100 "RESET" "clearline"]
+	Text[1049000 378000 0 100 "IRQ0" "clearline"]
+	Text[1050000 394000 0 100 "IRQ2" "clearline"]
+	Text[1130000 378000 0 100 "IRQ1" "clearline"]
 )
 NetList()
 (
