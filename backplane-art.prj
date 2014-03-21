@@ -1,0 +1,3 @@
+elements-dir ./foot
+schematics backplane.sch hidden-magic.sch
+output-name backplane-art
