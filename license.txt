@@ -1,0 +1,12 @@
+This is available under any of the following.
+
+GPL Version 2
+Local copy in gpl-2.0.txt
+https://www.gnu.org/licenses/gpl-2.0.html
+
+Local copy in cern_ohl_v_1_2.txt
+http://www.ohwr.org/attachments/2388/cern_ohl_v_1_2.txt
+
+This work is also licensed under the Creative Commons Attribution-ShareAlike 4.0
+International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by-sa/4.0/.
