@@ -1,14 +1,21 @@
+..Subrack Bill Of Matterials
+..By Evan Foss
+..Eaton Peabody Lab
+..Mass. Eye and Ear
+..2014.07.08
+
 <digikey>
 Part Number		Cat# Digikey		Cat# Newark
+PMSSS 440 0031 PH	H704-ND					100	$7.44		MACHINE SCREW PAN PHILLIPS 4-40
 0391001303		WM5065-ND				1	$1.79		CONN TERM STRIP LOPRO 3CIRC 12MM
 0391000804		WM15902-ND				1	$1.63		CONN TERMINAL STRIP 4CIRC 8MM
-PMS 440 0063 SL		H148-ND					3			MACHINE SCREW PAN SLOTTED 4-40 (see Note 4)
-INTLWSS 004		H729-ND					3			WASHER INT TOOTH #4 STN STEEL
-HNSS440			H724-ND					3			HEX NUT 1/4" STN STEEL
-PMS 832 0063 PH		H388-ND					2			MACHINE SCREW PAN SLOTTED 8-32 (see Note 4)
-INTLWSS 008		H731-ND					2			WASHER INT TOOTH #8 STN STEEL
-HNSS 832		H726-ND					2			HEX NUT 11/32" STN STEEL (#8-32)
-7311			7311K-ND		97H7300 	1	$0.17		Grounding lug
+PMS 440 0063 SL		H148-ND					100	$1.52		MACHINE SCREW PAN SLOTTED 4-40 (see Note 4)
+INTLWSS 004		H729-ND					100	$2.79		WASHER INT TOOTH #4 STN STEEL
+HNSS440			H724-ND					100	$4.86		HEX NUT 1/4" STN STEEL
+PMS 832 0063 PH		H388-ND					100	$3.86		MACHINE SCREW PAN SLOTTED 8-32 (see Note 4)
+INTLWSS 008		H731-ND					100	$3.64		WASHER INT TOOTH #8 STN STEEL
+HNSS 832		H726-ND					100	$9.93		HEX NUT 11/32" STN STEEL (#8-32)
+7311			7311K-ND		97H7300 	2	$0.34		Grounding lug
 INT LWSS 006		H730-ND					100	$2.50		WASHER INT TOOTH #6 STN STEEL
 1909			1909K-ND		62W5595		100	$26.84		ROUND SPACER #4 BRASS 1/8"
 FWSS 004		H734-ND					100	$3.36		WASHER FLAT #4 STAINLESS STEEL
@@ -26,10 +33,4 @@ Note 1: Quantities are based on what you can order not on exactly what the proje
 Note 2: All prices listed via Digikey unless they are not stocked via that distributor.
 Note 3: We know Digikey and Newark are not the be all and end all of screw, nut and associate hardware distributors but odds are high you will be buying a lot of other parts from them for this and related projects. Mostly I am just tired of fighting with the MSC Direct website.
 Note 4: Some care was put into selecting this screw for it's head size. Having it fit inbetween the posts of the barrier strip.
-
-Subrack Bill Of Matterials
-By Evan Foss
-Eaton Peabody Lab
-Mass. Eye and Ear
-2014.07.03
 
