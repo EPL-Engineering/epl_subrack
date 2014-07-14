@@ -4,8 +4,7 @@
 ..Mass. Eye and Ear
 ..2014.07.08
 
-<digikey>
-Part Number		Cat# Digikey		Cat# Newark
+..Part Number		Cat# Digikey		Cat# Newark	Quant.	Cost (total)	Description
 PMSSS 440 0031 PH	H704-ND					100	$7.44		MACHINE SCREW PAN PHILLIPS 4-40
 0391001303		WM5065-ND				1	$1.79		CONN TERM STRIP LOPRO 3CIRC 12MM
 0391000804		WM15902-ND				1	$1.63		CONN TERMINAL STRIP 4CIRC 8MM
@@ -21,6 +20,7 @@ INT LWSS 006		H730-ND					100	$2.50		WASHER INT TOOTH #6 STN STEEL
 FWSS 004		H734-ND					100	$3.36		WASHER FLAT #4 STAINLESS STEEL
 NT4-7PA			V2007-ND		89F661		3	$23.16		NUT SQUARE T-STRUT 4-40 25/PKG
 PMS 440 0075 PH		H350-ND					100	$2.85		MACHINE SCREW PAN PHILLIPS 4-40 Length - Below Head0.750"
+1280			1280K-ND		50B4558		1	$0.24		TERMINAL QUICKFIT 45DEG .250"TAB 0.032"THICK 0.312"CONTACT LENGTH
 R644-3F			V1195-ND		20C2835		10	$117.60		CONN EDGE 44CONT WIRE-WRAP FLUSH
 CMA14-16/90		CMA14-16/90-ND		96F7011		1	$246.41		MODULE CARD RACK 19X3UX12 10SLOT
 126-221			-			42FX118		1	$17.70		CIRCULAR CONNECTOR, RECEPTACLE, 9POS, PANEL
@@ -33,4 +33,6 @@ Note 1: Quantities are based on what you can order not on exactly what the proje
 Note 2: All prices listed via Digikey unless they are not stocked via that distributor.
 Note 3: We know Digikey and Newark are not the be all and end all of screw, nut and associate hardware distributors but odds are high you will be buying a lot of other parts from them for this and related projects. Mostly I am just tired of fighting with the MSC Direct website.
 Note 4: Some care was put into selecting this screw for it's head size. Having it fit inbetween the posts of the barrier strip.
+Note 5: In the event that the Keystone 1280 is unavailable the Keystone 1258 is a reasonable substitute but we advise against daisy chaining grounds.
+
 
